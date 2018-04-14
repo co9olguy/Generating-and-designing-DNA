@@ -1,6 +1,5 @@
 # Generating-and-designing-DNA
-Code for the paper "Generating and designing DNA with deep generative models" 
-[paper](arXiv:1712.06148)
+Code for "Generating and designing DNA with deep generative models" [paper](https://arxiv.org/abs/1712.06148)
 
 
 ## License
